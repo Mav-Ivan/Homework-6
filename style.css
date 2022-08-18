@@ -1,0 +1,19 @@
+.header {
+    background-color: greenyellow;
+}
+
+.fParag {
+    font-weight: bold;
+}
+
+.sParag {
+    color: red;
+}
+
+.tParag {
+    text-decoration: underline;
+}
+
+.foParag {
+    font-style: italic;
+}
